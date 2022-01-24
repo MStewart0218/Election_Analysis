@@ -37,7 +37,7 @@ The analysis of the election show the following:
 >- Winning Percentage: 73.8%
 
 `Election Analysis text file`
-[election_analysis.txt] (https://github.com/MStewart0218/Election_Analysis/blob/main/Resources/Analysis/election_analysis.txt)
+[election_analysis.txt](https://github.com/MStewart0218/Election_Analysis/blob/main/Resources/Analysis/election_analysis.txt)
 
 # Challenge Analysis and Results
 > ## Overview of Election Audit: 

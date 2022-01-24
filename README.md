@@ -36,9 +36,8 @@ The analysis of the election show the following:
 >- Winning Vote Count: 272,892
 >- Winning Percentage: 73.8%
 
-`Election Analysis text file` 
- [election_analysis.txt](https://github.com/MStewart0218/Election_Analysis/blob/main/Resources/Analysis/election_analysis.txt)
--------------------------
+`Election Analysis text file`
+[election_analysis,txt] (https://github.com/MStewart0218/Election_Analysis/blob/main/Resources/Analysis/election_analysis.txt)
 
 # Challenge Analysis and Results
 > ## Overview of Election Audit: 
@@ -63,7 +62,7 @@ The analysis of the election show the following:
    - Charles Casper Stockham received 23.0% of the vote and 85,213 number of total votes.
    - Diana DeGette received 73.8% of the vote and 272,892 number of total votes.
    - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of total votes.
-   -
+   
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
    - Winner: Diana DeGette
    - Winning Vote Count: 272,892

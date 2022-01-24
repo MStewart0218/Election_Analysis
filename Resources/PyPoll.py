@@ -4,6 +4,7 @@
     #3. Total number of votes each candidate received
     #4. Percentage of votes each candidate won
     #5. The winner of the election based on popular vote
+    
 
 #Add our dependecies.
 import csv

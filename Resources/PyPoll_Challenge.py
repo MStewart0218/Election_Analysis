@@ -84,9 +84,9 @@ with open(file_to_save, "w") as txt_file:
         f"\nElection Results\n"
         f"-------------------------\n"
         f" -Total Votes: {total_votes:,}\n"
-        f'--------------------------'
+        f"-------------------------\n"
         f"\nCounty Votes\n"
-        f"--------------------------\n")
+        f"-------------------------\n")
     print(election_results, end="")
 
     txt_file.write(election_results)
@@ -98,7 +98,7 @@ with open(file_to_save, "w") as txt_file:
         # 6c: Calculate the percentage of votes for the county.
         county_vote_percentage = float(votes_county) / float(total_votes) * 100
         county_results = (
-            f" -{county} county cast {county_vote_percentage:.1f}% of the vote and {votes_county:,} number of votes.\n")
+            f" -{county} county cast {county_vote_percentage:.1f}% of the vote and {votes_county:,} number of votes.")
          # 6d: Print the county results to the terminal.
         print(county_results)
          # 6e: Save the county votes to a text file.
@@ -110,7 +110,7 @@ with open(file_to_save, "w") as txt_file:
             
     # 7: Print the county with the largest turnout to the terminal.
     largest_county_summary = (
-        f"------------------------\n"
+        f"-------------------------\n"
         f"\nLargest County Results\n"
         f"-------------------------\n"
         f" -Largaret County Turnout: {county_voter}\n"

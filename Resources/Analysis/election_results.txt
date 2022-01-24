@@ -1,0 +1,26 @@
+
+Election Results
+-------------------------
+ -Total Votes: 369,711
+-------------------------
+
+County Votes
+-------------------------
+ -Jefferson county cast 10.5% of the vote and 38,855 number of votes. -Denver county cast 82.8% of the vote and 306,055 number of votes. -Arapahoe county cast 6.7% of the vote and 24,801 number of votes.-------------------------
+
+Largest County Results
+-------------------------
+ -Largaret County Turnout: Denver
+ -Largest County Vote Count: 306,055
+-------------------------
+
+Candidate Results
+-------------------------
+ -Charles Casper Stockham received 23.0% of the vote and 85,213 number of total votes
+ -Diana DeGette received 73.8% of the vote and 272,892 number of total votes
+ -Raymon Anthony Doane received 3.1% of the vote and 11,606 number of total votes
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------

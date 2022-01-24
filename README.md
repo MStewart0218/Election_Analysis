@@ -13,7 +13,7 @@ Analyzing Large election data set with Python
 ## Resources:
 
 - Data Source: election_results.csv
-- Software: Python 3.10, Visual Studio Code
+- Software: Python 3.10, Visual Studio Code 1.63.2
 
 ## Summary:
 
@@ -35,6 +35,8 @@ The analysis of the election show the following:
 >- Winner: Diana DeGette
 >- Winning Vote Count: 272,892
 >- Winning Percentage: 73.8%
+
+https://github.com/MStewart0218/Election_Analysis/blob/main/Resources/Analysis/election_analysis.txt
 -------------------------
 
 ## Challenge Overview:
